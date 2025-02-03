@@ -27,8 +27,9 @@ After the data is inserted, various SQL queries can be written to explore and an
 
 ---
 ## **Queries**
---1.Calculate the average danceability of tracts in each album.
---2.Find the top 5 tracks with the highest energy values.
+
+-- Calculate the average danceability of tracts in each album.
+-- Find the top 5 tracks with the highest energy values.
 --3. List all tracks with their views and likes where official_vedio = 'True'.
 --4.Find the top3 most viewed tracks for each artist using window function.
 --5.write query to find tracks where the liveness score above avg.
