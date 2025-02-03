@@ -15,12 +15,12 @@ Before diving into SQL, it’s important to understand the dataset thoroughly. T
 - `Track`: The name of the song.
 - `Album`: The album to which the track belongs.
 - `Album_type`: The type of album (e.g., single or album).
-- 'Views': How many times viewed.
-- 'Likes': Number of times liked.
-- 'Comments': How many times it gets comment.
-- 'Duration': Duration of the track.
-- 'Title': Name of the track.
-- - Various metrics such as `danceability`, `energy`, `loudness`, `tempo`, and more.
+- `Views`: How many times viewed.
+- `Likes`: Number of times liked.
+- `Comments`: How many times it gets comment.
+- `Duration`: Duration of the track.
+- `Title`: Name of the track.
+- Various metrics such as `danceability`, `energy`, `loudness`, `tempo`, and more.
 #### 4. Querying the Data
 After the data is inserted, various SQL queries can be written to explore and analyze the data.
 ---
